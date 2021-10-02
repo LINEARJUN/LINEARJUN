@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @LINEARJUN
-- 👀 I’m interested in Unity3D
+- 👋 Hi, I’m @LUKE KIM
+- 👀 I’m interested in client programming
 - 🌱 I’m currently learning node.js
-- 💞️ I’m looking to collaborate on bus driver
+- 💞️ I’m looking to collaborate on 'bus driver'
 - 📫 How to reach me ...
 
 <!---
