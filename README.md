@@ -1,7 +1,7 @@
-- 👋 Hi, I’m LUKE KIM
-- 👀 I’m interested in client programming
-- 🌱 I’m currently learning node.js
-- 💞️ I’m looking to collaborate on 'bus driver'
+- 👋 Hallo, I’m LUKE KIM
+- 👀 I’m interested in client programming,
+- 🌱 I’m currently learning node.js,
+- 💞️ I’m looking for 'bus driver',
 - 📫 How to reach me ...
 
 <!---
