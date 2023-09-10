@@ -1,4 +1,4 @@
-- 👋 Hallo, I’m LUKE KIM
+- 👋 Hallo
 - 👀 I’m interested in client programming,
 - 🌱 I’m currently learning node.js,
 - 💞️ I’m looking for 'bus driver',
